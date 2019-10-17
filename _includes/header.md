@@ -1,4 +1,5 @@
-# [AP CS Principles]({{ "/" | relative_url }})
+# [AP CSP]({{ "/" | relative_url }})
 
 Highlands\\
-Entrepreneurship Flight Path
+Launch\\
+Entrepreneurship
